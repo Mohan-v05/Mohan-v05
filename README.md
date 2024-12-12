@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm **Sooriyakanthan Mohanakahnan**, an aspiring S
 - 🌐 **Long-term**: Become a full-stack developer and lead software development teams in innovative industries.  
 
 ### 📜 Certifications  
-- **Basics of Web Development** – Moratuwa DP Education  
+- **Basics of Web Development** – Moratuwa   
 - More certifications to come as I continue my learning journey!  
 
 ### 🔧 Tech Stack  
@@ -25,14 +25,15 @@ Welcome to my GitHub profile! I'm **Sooriyakanthan Mohanakahnan**, an aspiring S
 
 ### 🚀 Projects  
 - **[Gym Fees Management System](#)**: Angular frontend + .NET backend project.  
-- **[Fitness Program Management System](#)**: A .NET Core console application with CRUD operations and input validation.  
+- **[Fitness Program Management System](#)**: A .NET Core console application with CRUD operations and input validation.
+- - **[FPersonal Portfolio Website](#)**  : Using Angular
 
 ### 🌟 Personal Quote  
 > "Code is not just a career; it’s my craft. I aim to build solutions that make a difference."  
 
 ### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sooriyakanthan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sooriyakanthan&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohan-v05&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohan-v05&layout=compact&theme=radical)  
 
 ### 📫 Get in Touch  
 - **LinkedIn**: [Sooriyakanthan Mohanakahnan](https://www.linkedin.com/in/sooriyakanthan-mohanakahnan-6b1798323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
