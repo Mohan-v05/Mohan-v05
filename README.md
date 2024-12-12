@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm **Sooriyakanthan Mohanakahnan**, an aspiring Software Developer passionate about creating impactful solutions.  
 
 ### 🌟 About Me  
-- 🎓 **Education**: Software Development student at **UnicomTic** (Graduating December 2024).  
+- 🎓 **Education**: Software Development student at **UnicomTic**.  
 - 💻 **Skills**: .NET, Angular, SQL Server, HTML, CSS, JavaScript, Bootstrap.  
 - 🌍 **Languages**: Tamil (native), English (fluent).  
 - 💪 **Hobbies**: Coding, fitness, and watching movies.  
